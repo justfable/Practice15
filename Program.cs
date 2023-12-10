@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace HomeTask15
+namespace Practice15
 {
     public class MyClass
     {
